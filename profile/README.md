@@ -1,5 +1,5 @@
 # Lagrange Dao 
-[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/nnfWfjGG)
+[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/vCHEFpncMu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lagrangedao)](https://twitter.com/lagrangedao)
 
 Lagrange DAO is a DAO for data value realization. It provides data sharing & analytic spaces for Decentralized science (
